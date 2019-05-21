@@ -3,7 +3,7 @@ My learning path way to become Data Scientist
 
 Hi Guys,
 
-If you are starting with a aim to become <b>Data Scientist<b> the major confusion you will face is what is the path to follow.
+If you are starting with a aim to become <b>Data Scientist</b> the major confusion you will face is what is the path to follow.
 
 Atleast that is what i faced. It took me a while to come out of that confusion.
 
